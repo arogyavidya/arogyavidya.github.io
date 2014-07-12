@@ -1,0 +1,15 @@
+{
+  "name": "Save your Dish",
+  "description": "This application is used to save the favorite dish in your mobile phones. We can also check this saved items later like how to prepare the dish and what are the ingredients required for making the dish and so on.",
+  "launch_path": "/app.html",
+  "icons": {
+    "128": "/images/app_icon_128.png",
+    "60": "/images/app_icon_60.png"
+  },
+  "version": "1.1",
+  "developer": {
+    "name": "Jawaharlal ",
+    "url": "http://arogyavidya.wordpress.com/"
+  },
+  "default_locale": "en"
+}
